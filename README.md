@@ -1,8 +1,8 @@
 <h1>Hi there! I'm Alex 👋</h1>
 <h2>Welcome to my GitHub Profile!</h2>
 
-- 📄 [My Portfolio](https://alexrnguyen.github.io/)
-- 💻 Click on "Repositories" to see all my public projects
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-37a779?style=for-the-badge&color=758FD5)](https://alexrnguyen.github.io/)
+[![All Public Projects](https://img.shields.io/badge/All_Public_Projects-37a779?style=for-the-badge&color=A284D1)](https://github.com/alexrnguyen?tab=repositories)
 
 <img class="img" width = 50% src="https://github-readme-stats.vercel.app/api?username=alexrnguyen&show_icons=true&hide=stars&theme=tokyonight" />
 <img class="img" width = 50% src="https://github-readme-streak-stats.herokuapp.com?user=alexrnguyen&theme=tokyonight" />
