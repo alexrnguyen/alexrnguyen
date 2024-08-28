@@ -13,7 +13,7 @@
 
 <h3>Contact Me:</h3>
 <div align="left">
-  <a href="https://ca.linkedin.com/in/alexander-nguyen-229458211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Nguyen" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/alexander-nguyen-it-pro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Nguyen" height="30" width="30" /></a>
   &nbsp;
   <a href="mailto:alexander.nguyen@shaw.ca" target="blank">
   <img align="center" src="https://github.com/alexrnguyen/alexrnguyen/assets/90285768/cbffb487-e796-422d-832a-26bec1a36651"alt="alexander.nguyen@shaw.ca" height="30" width="30" />
