@@ -9,7 +9,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bootstrap,c,css,django,express,figma,firebase,git,heroku,html,java,js,jest,linux,materialui,mongodb,nginx,nodejs,postgres,python,react,sqlite,tailwind,ts,webpack)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cs,css,django,express,firebase,git,graphql,heroku,html,java,js,jest,linux,materialui,mongodb,net,nginx,nodejs,postgres,python,react,sqlite,tailwind,ts)](https://skillicons.dev)
 
 <h3>Contact Me:</h3>
 <div align="left">
